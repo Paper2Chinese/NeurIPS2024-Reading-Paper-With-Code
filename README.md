@@ -29,6 +29,7 @@
 - [NeRF](#NeRF)
 - [DETR](#DETR)
 - [Prompt](#Prompt)
+- [强化学习(Reinforcement Learning)](#RL)
 - [扩散模型(Diffusion Models)](#Diffusion)
 - [ReID(重识别)](#ReID)
 - [长尾分布(Long-Tail)](#Long-Tail)
@@ -187,6 +188,17 @@
 
 # NAS
 
+
+<a name="RL"></a>
+
+## 强化学习(Reinforcement Learning) 
+
+### Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance
+
+- Paper: [https://arxiv.org/abs/2410.02581](https://arxiv.org/abs/2410.02581)
+
+
+
 <a name="ReID"></a>
 
 # ReID(重识别)
@@ -215,6 +227,13 @@
 
 # 目标检测(Object Detection)
 
+<a name="DA"></a>
+
+## 数据增强(Data Augmentation)
+
+### Learning from Offline Foundation Features with Tensor Augmentations
+- Paper: [https://arxiv.org/abs/2410.02527](https://arxiv.org/abs/2410.02527)
+- Code: [https://github.com/emirkonuk/loffta](https://github.com/emirkonuk/loffta)
 
 
 <a name="Anomaly-Detection"></a>
@@ -227,6 +246,8 @@
 
 # 目标跟踪(Object Tracking)
 
+### Spiking Neural Network as Adaptive Event Stream Slicer
+- Paper：[https://arxiv.org/abs/2410.02249](https://arxiv.org/abs/2410.02249)
 
 
 
@@ -235,6 +256,8 @@
 
 # 语义分割(Semantic Segmentation)
 
+### Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation
+- Paper：[https://arxiv.org/abs/2410.02369](https://arxiv.org/abs/2410.02369)
 
 <a name="MI"></a>
 
@@ -384,7 +407,14 @@
 
 # 数据集(Datasets)
 
+### Towards Comprehensive Detection of Chinese Harmful Memes
+- Paper：[https://arxiv.org/abs/2410.02378](https://arxiv.org/abs/2410.02378)
+- Code：[https://github.com/DUT-lujunyu/ToxiCN_MM](https://github.com/DUT-lujunyu/ToxiCN_MM)
 
 
 # 其他(Others)
+
+### Predictive Attractor Models
+- Paper: [https://arxiv.org/abs/2410.02430](https://arxiv.org/abs/2410.02430)
+- 
 
