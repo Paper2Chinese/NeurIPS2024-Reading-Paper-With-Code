@@ -29,6 +29,7 @@
 - [NeRF](#NeRF)
 - [DETR](#DETR)
 - [Prompt](#Prompt)
+- [视觉问答任务(VQA)](#VQA)
 - [强化学习(Reinforcement Learning)](#RL)
 - [扩散模型(Diffusion Models)](#Diffusion)
 - [ReID(重识别)](#ReID)
@@ -188,6 +189,11 @@
 
 # NAS
 
+<a name="VQA"></a>
+### A Hitchhikers Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning
+- Paper: [https://arxiv.org/abs/2410.00485](https://arxiv.org/abs/2410.00485)
+- Code: [https://nickyfot.github.io/hitchhickersguide.github.io/](https://nickyfot.github.io/hitchhickersguide.github.io/)
+
 
 <a name="RL"></a>
 
@@ -197,6 +203,8 @@
 
 - Paper: [https://arxiv.org/abs/2410.02581](https://arxiv.org/abs/2410.02581)
 
+### Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation
+- Paper：[https://arxiv.org/abs/2410.02172](https://arxiv.org/abs/2410.02172)
 
 
 <a name="ReID"></a>
