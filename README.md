@@ -101,7 +101,7 @@
 - [数据集(Datasets)](#Datasets)
 - [反学习(Machine Unlearning)](#Unlearning)
 - [新任务(New Tasks)](#New-Tasks)
-- [模型加速(Improving Reasoning)](#Improving Reasoning)
+- [模型加速(Improving Reasoning)](#Improving-Reasoning)
 - [时间序列(Time Series)](#Time-Series)
 - [其他(Others)](#Others)
 
@@ -561,7 +561,7 @@
 ### Most Influential Subset Selection: Challenges, Promises, and Beyond
 - Paper: [https://arxiv.org/pdf/2409.18153](https://arxiv.org/pdf/2409.18153)
 
-<a name="Improving Reasoning"></a>
+<a name="Improving-Reasoning"></a>
 # 模型加速(Improving Reasoning)
 
 ### On the Inductive Bias of Stacking Towards Improving Reasoning
