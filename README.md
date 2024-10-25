@@ -244,7 +244,9 @@
 ### Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation
 - Paper：[https://arxiv.org/abs/2410.02172](https://arxiv.org/abs/2410.02172)
 
-
+### ZSC-Eval: An Evaluation Toolkit and Benchmark for Multi-agent Zero-shot Coordination
+- Paper：[https://arxiv.org/pdf/2310.05208](https://arxiv.org/pdf/2310.05208)
+- Code：[https://github.com/sjtu-marl/ZSC-Eval](https://github.com/sjtu-marl/ZSC-Eval)
 
 
 <a name="ReID"></a>
@@ -320,6 +322,9 @@
 ### Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation
 - Paper：[https://arxiv.org/abs/2410.02369](https://arxiv.org/abs/2410.02369)
 
+### DarkSAM: Fooling Segment Anything Model to Segment Nothing
+- Paper：[https://arxiv.org/pdf/2409.17874](https://arxiv.org/pdf/2409.17874)
+- Code：[https://github.com/CGCL-codes/DarkSAM](https://github.com/CGCL-codes/DarkSAM)
 
 <a name="FewShot"></a>
 
@@ -452,6 +457,11 @@
 
 # 图像生成(Image Generation)
 
+### FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner
+- Paper：[https://arxiv.org/abs/2409.18128](https://arxiv.org/abs/2409.18128)
+- Code：[https://github.com/shiml20/FlowTurbo](https://github.com/shiml20/FlowTurbo)
+
+
 
 
 <a name="Video-Generation"></a>
@@ -472,6 +482,12 @@
 <a name="Video-Understanding"></a>
 
 # 视频理解(Video Understanding)
+
+### E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding
+- Paper：[https://arxiv.org/abs/2409.18111](https://arxiv.org/abs/2409.18111)
+- Code：[https://polyu-chenlab.github.io/etbench/](https://polyu-chenlab.github.io/etbench/)
+
+
 
 <a name="CL"></a>
 
@@ -604,5 +620,8 @@
 
 ### Decomposable Transformer Point Processes
 - Paper: [https://arxiv.org/abs/2409.18158](https://arxiv.org/abs/2409.18158)
+
+### Safe Time-Varying Optimization based on Gaussian Processes with Spatio-Temporal Kernel
+- Paper：[https://arxiv.org/pdf/2409.18000](https://arxiv.org/pdf/2409.18000)
 
 <!-- FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner -->
